@@ -58,8 +58,8 @@ export const Hero = () => {
             variants={containerVarients}
             className="flex flex-col items-center lg:items-start mt-10"
           >
-            <motion.h2 variants={childVarients} className="pb-2 text-4xl tracking-tighter lg:text-8xl">
-              Ravi Kumar
+            <motion.h2 variants={childVarients} className="pb-2 text-3xl tracking-tighter lg:text-6xl">
+              Pallab Mahato
             </motion.h2>
             <motion.span
               variants={childVarients}
