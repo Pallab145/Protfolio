@@ -40,25 +40,25 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "VideoCalling app",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A fully functional videocalling website with features like product videocall, rtpc, and user authentication.",
+    technologies: ["Next.js", "Tailwind", "Node.js", "Express","Socket.io","Redis","mediasoup"]
   },
   {
-    title: "Task Management App",
+    title: "Zapier",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "Zapier is a powerful automation platform that allows you to connect and automate different apps and services without needing to write any code.",
+    technologies: ["Next.js", "Tailwind", "Node.js", "Express","Socket.io","Prisma",'postgres',"Kafka"]
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["Next.js", "Tailwind", "framer-motion"]
   },
   {
     title: "Blogging Platform",

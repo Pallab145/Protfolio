@@ -20,7 +20,7 @@ export const Navbar = () => {
           aria-label="LinkedIn">
           <FaLinkedin />
         </a>
-        <a href="https://www.github.com/in/your-github-profile"
+        <a href="https://github.com/Pallab145"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub">
